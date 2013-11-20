@@ -1,0 +1,157 @@
+﻿html {
+text-align:center;
+}
+/* --------------------------------body--------------------------------- */
+body.custom-background {
+background-image: url(./../images/wood.jpg);
+background-repeat: repeat;
+background-position: top center;
+background-attachment: scroll;
+}
+body {
+background: url(./../images/wood.jpg) top left;
+color: rgb(68, 68, 68);
+font-family: "Helvetica Neue", "Helvetica", Arial, sans-serif;
+font-size: 14px;
+text-shadow: 0 0 1px rgba(0, 0, 0, 0);
+}
+
+user stylesheethtml body {
+padding-bottom: 150px;
+}
+ 
+body, button, input, select, textarea {
+color: rgb(51, 51, 51);
+}
+ 
+body {
+margin: 0;
+font-size: 13px;
+line-height: 20px;
+}
+ 
+body {
+font-family: Georgia, Times New Roman, Times, serif;
+}
+body ，article, aside, details, figcaption, figure, footer, header, hgroup, nav, section {
+display: block;
+}
+/* -----------------------------page header ------------------------------------ */
+ 
+header#page-header {
+background: url(./../images/bk_header.png) no-repeat;
+height: 110px;
+padding: 24px 50px 0 75px;
+position: relative;
+margin: 10px auto 0px auto;
+font-size: 40px;
+}
+header head｛
+headers font: 36px 'Philosopher', sans-serif;
+｝
+ 
+/* -----------------------------left side bar eage------------------------------------ */
+.post .sidebadge, .page .sidebadge {
+position: absolute;
+width: 42px;
+height: 33px;
+background: url(./../images/post_badge.png) no-repeat;
+top: 25px;
+left: -52px;
+}
+
+.sideBox {
+padding-left: 20px;
+}
+/* ----------------------------content head------------------------------------- */
+#content-inner-wrapper {
+background: url(./../images/bk_content.png) no-repeat;
+min-height: 200px;
+overflow: hidden;
+margin: 0px auto;
+}
+/* ----------------------------content warp------------------------------------- */
+#content-wrapper {
+background: url(./../images/bk_content_wrap.png) 0 10px repeat-y;
+overflow: hidden;
+}
+/* -----------------------------footer ------------------------------------ */
+footer#page-footer {
+background: url(./../images/bk_footer.png) no-repeat;
+min-height: 140px;
+}
+ 
+#page-footer {
+color: rgb(38, 33, 33);
+text-shadow: 1px 1px rgb(255, 255, 255);
+}
+ 
+#page-footer {
+color: rgb(51, 51, 51);
+padding: 70px 30px 0 50px;
+text-shadow: 1px 1px rgb(255, 255, 255);
+font-size: 12px;
+}
+/* -------------------------------man content---------------------------------- */
+#main-content {
+float: left;
+width: 480px;
+padding: 20px 60px 20px 80px;
+}
+ 
+/* -----------------------------right sider bar------------------------------------ */
+aside#sidebar {
+float: left;
+width: 230px;
+background: url(./../images/shadow_social.png) 0 28px no-repeat;
+min-height: 200px;
+padding-left: 20px;
+font-size: 12px;
+}
+/* ----------------------------------------------------------------- */
+
+ /* ---------------------------for social link-------------------------------------- */
+.zilla-social img {
+margin: 0 2px 4px 2px;
+}
+ 
+a > img {
+vertical-align: bottom;
+}
+ 
+a img {
+border: none;
+}
+#sidebar a {
+border-bottom: none;
+}
+ 
+a {
+border-bottom: 1px solid #c7c9cd;
+color: #4882b1;
+text-decoration: none;
+-webkit-transition: color .1s linear;
+-moz-transition: color .1s linear;
+-ms-transition: color .1s linear;
+-o-transition: color .1s linear;
+transition: color .1s linear;
+}
+div {
+margin: 0;
+padding: 0;
+border: 0;
+outline: 0;
+font-size: 100%;
+vertical-align: baseline;
+background: transparent;
+}
+div {
+display: block;
+}
+ /* ---------------------------for social link-------------------------------------- */
+body {
+width:1000px;
+margin:0 auto;
+text-align:left;
+}
+ 
